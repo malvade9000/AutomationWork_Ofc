@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aafe4b47-0a3a-4c5a-9d7e-417e15efdde4" name="Changes" comment="03 10 2024">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_06092024/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_06092024/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/ex_041024/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_06092024/Lab005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_06092024/Lab005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_06092024/Lab006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_06092024/Lab006.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "malvade9000"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;malvade9000&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/malvade9000/AutomationWork_Ofc.git",
-    "accountId": "74aa7f23-c7ee-4094-ba6d-a12b1eac272a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/malvade9000/AutomationWork_Ofc.git&quot;,
+    &quot;accountId&quot;: &quot;74aa7f23-c7ee-4094-ba6d-a12b1eac272a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -57,7 +55,9 @@
     "Application.Lab006.executor": "Run",
     "Application.Lab007.executor": "Run",
     "Application.Lab008.executor": "Run",
+    "Application.Person.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/aniketmal/IdeaProjects/AutomationWork/src/Main.java"
@@ -88,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727959322188</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="03 10 2024">
+      <option name="closed" value="true" />
+      <created>1727961320991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727961320991</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
