@@ -5,7 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aafe4b47-0a3a-4c5a-9d7e-417e15efdde4" name="Changes" comment="03 10 2024">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab030_Assignment_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab031_Arithmatic_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab033_Unary_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab034.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab036.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab037_Compound_Assignment_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab038_Relational_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab039_Logical_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab041.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab042.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_16092024/Lab043.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_04092024/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_04092024/Lab001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_04092024/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_04092024/Lab002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_04092024/Lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_04092024/Lab003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_06092024/Lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_06092024/Lab004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_09092024/Lab011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_13092024/Lab019.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +61,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/malvade9000/AutomationWork_Ofc.git&quot;,
-    &quot;accountId&quot;: &quot;74aa7f23-c7ee-4094-ba6d-a12b1eac272a&quot;
+    &quot;url&quot;: &quot;https://github.com/malvade9000/AutomationWork_Ofc&quot;,
+    &quot;accountId&quot;: &quot;6cb00331-77e3-4ab4-90da-55ef2aecd8f1&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -45,37 +76,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab008.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab011.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab012.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab014.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab015_DataType.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab016.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab017.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aniketmal/IdeaProjects/AutomationWork/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab003.executor": "Run",
+    "Application.Lab004.executor": "Run",
+    "Application.Lab005.executor": "Run",
+    "Application.Lab006.executor": "Run",
+    "Application.Lab007.executor": "Run",
+    "Application.Lab008.executor": "Run",
+    "Application.Lab009.executor": "Run",
+    "Application.Lab011.executor": "Run",
+    "Application.Lab012.executor": "Run",
+    "Application.Lab013.executor": "Run",
+    "Application.Lab014.executor": "Run",
+    "Application.Lab015_DataType.executor": "Run",
+    "Application.Lab016.executor": "Run",
+    "Application.Lab017.executor": "Run",
+    "Application.Lab019.executor": "Run",
+    "Application.Lab020.executor": "Run",
+    "Application.Lab021.executor": "Run",
+    "Application.Lab022.executor": "Run",
+    "Application.Lab023.executor": "Run",
+    "Application.Lab024.executor": "Run",
+    "Application.Lab025.executor": "Run",
+    "Application.Lab026.executor": "Run",
+    "Application.Lab027.executor": "Run",
+    "Application.Lab029.executor": "Run",
+    "Application.Lab030_Assignment_Operator.executor": "Run",
+    "Application.Lab031_Arithmatic_Operator.executor": "Run",
+    "Application.Lab032.executor": "Run",
+    "Application.Lab033_Unary_Operator.executor": "Run",
+    "Application.Lab034.executor": "Run",
+    "Application.Lab035.executor": "Run",
+    "Application.Lab036.executor": "Run",
+    "Application.Lab037_Compound_Assignment_Operators.executor": "Run",
+    "Application.Lab038_Relational_Operators.executor": "Run",
+    "Application.Lab039_Logical_Operators.executor": "Run",
+    "Application.Lab040.executor": "Run",
+    "Application.Lab041.executor": "Run",
+    "Application.Lab042.executor": "Run",
+    "Application.Lab043.executor": "Run",
+    "Application.Person.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/aniketmal/IdeaProjects/AutomationWork/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Lab013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_11092024.Lab013" />
+}]]></component>
+  <component name="RunManager" selected="Application.Lab044">
+    <configuration name="Lab040" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_16092024.Lab040" />
       <module name="AutomationWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex_11092024.*" />
+          <option name="PATTERN" value="Sept.ex_16092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_11092024.Lab014" />
+    <configuration name="Lab041" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_16092024.Lab041" />
       <module name="AutomationWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex_11092024.*" />
+          <option name="PATTERN" value="Sept.ex_16092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab015_DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_11092024_DataTypes.Lab015_DataType" />
+    <configuration name="Lab042" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_16092024.Lab042" />
       <module name="AutomationWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex_11092024_DataTypes.*" />
+          <option name="PATTERN" value="Sept.ex_16092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_11092024_DataTypes.Lab016" />
+    <configuration name="Lab043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_16092024.Lab043" />
       <module name="AutomationWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex_11092024_DataTypes.*" />
+          <option name="PATTERN" value="Sept.ex_16092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab017" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_11092024_DataTypes.Lab017" />
+    <configuration name="Lab044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_16092024.Lab044" />
       <module name="AutomationWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex_11092024_DataTypes.*" />
+          <option name="PATTERN" value="Sept.ex_16092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab017" />
-        <item itemvalue="Application.Lab016" />
-        <item itemvalue="Application.Lab015_DataType" />
-        <item itemvalue="Application.Lab014" />
-        <item itemvalue="Application.Lab013" />
+        <item itemvalue="Application.Lab044" />
+        <item itemvalue="Application.Lab043" />
+        <item itemvalue="Application.Lab042" />
+        <item itemvalue="Application.Lab041" />
+        <item itemvalue="Application.Lab040" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728383599695</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="03 10 2024">
+      <option name="closed" value="true" />
+      <created>1728563130534</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728563130534</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

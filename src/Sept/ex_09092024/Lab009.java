@@ -11,6 +11,16 @@ public class Lab009 {
          *
          * */
 
+       /* asdfadf
+                adf
+                asf
+                        asdf
+                        asd
+                                fasd
+                                fasdsdf
+                                        s*/
+
+
 
         /**
          * Java Documentation Multiple Line Comments
